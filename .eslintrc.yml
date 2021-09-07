@@ -1,0 +1,6 @@
+# Airbnb Config: https://www.npmjs.com/package/eslint-config-airbnb
+extends: 'airbnb'
+parser: 'babel-eslint'
+rules:
+  linebreak-style: 'off'
+
